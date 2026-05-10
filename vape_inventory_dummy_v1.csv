@@ -1,0 +1,37 @@
+sku,brand,product_name,puff_count,flavour,category,supplier,previous_inventory_qty,current_stock,past_month_units_sold,past_month_purchase_qty,reorder_point,lead_time_days,safety_stock_days,pack_size,min_order_qty,unit_cost,sell_price,avg_daily_sales,target_stock,suggested_order_qty,estimated_order_cost,priority,notes
+FB-50K-MANGO-ICE,Flavour Beast,Flavour beast 50k mango ice,50k,Mango Ice,Disposable Vape,Cloudline Wholesale,34,5,43,10,22,4,10,5,5,19.1,39.18,1.43,21,20,382.0,High,Below reorder point
+FB-60K-BANANA-ICE,Flavour Beast,Flavour beast 60k banana ice,60k,Banana Ice,Disposable Vape,Cloudline Wholesale,31,56,12,0,17,4,5,5,5,20.12,39.68,0.4,4,0,0.0,Low,OK
+FB-50K-BLUE-RAZZ-ICE,Flavour Beast,Flavour beast 50k Blue razz ice,50k,Blue Razz Ice,Disposable Vape,Cloudline Wholesale,89,55,36,30,33,5,5,5,5,19.15,34.53,1.2,12,0,0.0,Low,OK
+FB-60K-STRAW-WATER-ICE,Flavour Beast,Flavour beast 60k Strawberry watermelon ice,60k,Strawberry Watermelon Ice,Disposable Vape,Cloudline Wholesale,39,29,51,0,17,7,5,10,10,20.69,39.76,1.7,21,0,0.0,Low,OK
+FB-50K-PEACH-ICE,Flavour Beast,Flavour beast 50k Peach ice,50k,Peach Ice,Disposable Vape,Cloudline Wholesale,25,60,76,0,27,3,10,10,10,19.41,37.43,2.53,33,0,0.0,Low,Fast mover - review weekly
+FB-60K-GRAPE-ICE,Flavour Beast,Flavour beast 60k Grape ice,60k,Grape Ice,Disposable Vape,Cloudline Wholesale,66,26,16,0,22,5,5,5,5,20.73,37.75,0.53,6,0,0.0,Low,OK
+FB-50K-MINT-ICE,Flavour Beast,Flavour beast 50k Mint ice,50k,Mint Ice,Disposable Vape,Cloudline Wholesale,78,48,28,20,26,4,10,10,10,19.15,37.49,0.93,14,0,0.0,Low,OK
+FB-60K-LYCHEE-ICE,Flavour Beast,Flavour beast 60k Lychee ice,60k,Lychee Ice,Disposable Vape,Cloudline Wholesale,29,23,76,50,22,4,7,10,10,19.54,40.38,2.53,28,10,195.4,Medium,Fast mover - review weekly
+FB-50K-PINEAPPLE-ICE,Flavour Beast,Flavour beast 50k Pineapple ice,50k,Pineapple Ice,Disposable Vape,Cloudline Wholesale,48,43,15,10,16,5,7,10,10,17.88,36.85,0.5,6,0,0.0,Low,OK
+ELG-30K-MANGO-ICE,Elgbar,Elgbar 30k mango ice,30k,Mango Ice,Disposable Vape,Northern Vape Supply,60,29,91,30,27,7,5,10,10,15.28,30.33,3.03,37,10,152.8,Medium,Fast mover - review weekly
+ELG-40K-BANANA-ICE,Elgbar,Elgbar 40k banana ice,40k,Banana Ice,Disposable Vape,Northern Vape Supply,88,35,82,30,33,7,7,5,5,18.49,31.66,2.73,39,5,92.45,Medium,Fast mover - review weekly
+ELG-30K-BLUE-RAZZ-ICE,Elgbar,Elgbar 30k Blue razz ice,30k,Blue Razz Ice,Disposable Vape,Northern Vape Supply,83,13,14,0,19,4,10,10,10,16.19,29.52,0.47,7,10,161.9,Medium,Below reorder point
+ELG-40K-MIST-ICE,Elgbar,Elgbar 40k Mist ice,40k,Mist Ice,Disposable Vape,Northern Vape Supply,79,34,78,0,18,10,7,10,10,16.72,30.86,2.6,45,20,334.4,Medium,Fast mover - review weekly
+ELG-30K-PEACH-MANGO-ICE,Elgbar,Elgbar 30k Peach mango ice,30k,Peach Mango Ice,Disposable Vape,Northern Vape Supply,78,2,41,40,20,10,5,10,10,16.68,31.33,1.37,21,20,333.6,High,Below reorder point
+ELG-40K-GRAPE-ICE,Elgbar,Elgbar 40k Grape ice,40k,Grape Ice,Disposable Vape,Northern Vape Supply,45,21,55,10,32,10,5,10,10,17.48,29.72,1.83,28,20,349.6,Medium,Below reorder point
+ELG-30K-WATERMELON-ICE,Elgbar,Elgbar 30k Watermelon ice,30k,Watermelon Ice,Disposable Vape,Northern Vape Supply,66,41,38,0,22,10,5,5,5,16.46,33.2,1.27,19,0,0.0,Low,OK
+ELG-40K-MINT-ICE,Elgbar,Elgbar 40k Mint ice,40k,Mint Ice,Disposable Vape,Northern Vape Supply,88,18,24,50,30,10,5,10,10,17.56,33.77,0.8,12,20,351.2,Medium,Below reorder point
+ELG-30K-LUSH-ICE,Elgbar,Elgbar 30k Lush ice,30k,Lush Ice,Disposable Vape,Northern Vape Supply,47,27,47,30,35,5,7,10,10,15.24,26.69,1.57,19,10,152.4,Medium,Below reorder point
+STLTH-20K-MIST-ICE,STLTH,stlth 20k Mist ice,20k,Mist Ice,Disposable Vape,STLTH Distribution,63,4,83,40,22,10,5,5,5,12.64,24.45,2.77,42,40,505.6,High,Fast mover - review weekly
+STLTH-20K-BLUE-RAZZ-ICE,STLTH,stlth 20k Blue razz ice,20k,Blue Razz Ice,Disposable Vape,STLTH Distribution,49,10,12,20,17,10,5,10,10,13.84,24.17,0.4,6,10,138.4,Medium,Below reorder point
+STLTH-20K-MANGO-ICE,STLTH,stlth 20k mango ice,20k,Mango Ice,Disposable Vape,STLTH Distribution,36,62,39,30,28,4,5,5,5,13.82,25.01,1.3,12,0,0.0,Low,OK
+STLTH-25K-BANANA-ICE,STLTH,stlth 25k Banana ice,25k,Banana Ice,Disposable Vape,STLTH Distribution,72,61,14,50,35,3,5,10,10,15.21,30.58,0.47,4,0,0.0,Low,OK
+STLTH-20K-GRAPE-ICE,STLTH,stlth 20k Grape ice,20k,Grape Ice,Disposable Vape,STLTH Distribution,33,33,32,10,32,7,5,10,10,12.87,23.91,1.07,13,0,0.0,Low,OK
+STLTH-25K-PEACH-ICE,STLTH,stlth 25k Peach ice,25k,Peach Ice,Disposable Vape,STLTH Distribution,29,58,78,0,16,10,5,5,5,15.6,31.7,2.6,39,0,0.0,Low,Fast mover - review weekly
+STLTH-20K-STRAW-ICE,STLTH,stlth 20k Strawberry ice,20k,Strawberry Ice,Disposable Vape,STLTH Distribution,41,54,70,30,21,7,5,5,5,13.26,27.76,2.33,28,0,0.0,Low,Fast mover - review weekly
+STLTH-25K-WATERMELON-ICE,STLTH,stlth 25k Watermelon ice,25k,Watermelon Ice,Disposable Vape,STLTH Distribution,53,60,44,30,32,7,5,5,5,14.34,29.91,1.47,18,0,0.0,Low,OK
+STLTH-20K-MINT-ICE,STLTH,stlth 20k Mint ice,20k,Mint Ice,Disposable Vape,STLTH Distribution,89,9,48,0,16,10,7,5,5,12.61,23.69,1.6,28,20,252.2,Medium,Below reorder point
+MRFOG-25K-MANGO-ICE,Mr.Fog,Mr.Fog 25k mango ice,25k,Mango Ice,Disposable Vape,Fogline Wholesale,43,10,84,0,22,7,5,5,5,14.91,24.87,2.8,34,25,372.75,Medium,Fast mover - review weekly
+MRFOG-35K-BANANA-ICE,Mr.Fog,Mr.Fog 35k Banana ice,35k,Banana Ice,Disposable Vape,Fogline Wholesale,30,55,92,40,33,10,7,10,10,16.16,31.87,3.07,53,0,0.0,Low,Fast mover - review weekly
+MRFOG-25K-MIST-ICE,Mr.Fog,Mr.Fog 25k Mist ice,25k,Mist Ice,Disposable Vape,Fogline Wholesale,50,35,58,10,35,5,7,10,10,15.61,32.33,1.93,24,0,0.0,Low,OK
+MRFOG-35K-BLUE-RAZZ-ICE,Mr.Fog,Mr.Fog 35k Blue razz ice,35k,Blue Razz Ice,Disposable Vape,Fogline Wholesale,21,60,87,40,18,3,10,5,5,16.76,28.65,2.9,38,0,0.0,Low,Fast mover - review weekly
+MRFOG-25K-PEACH-ICE,Mr.Fog,Mr.Fog 25k Peach ice,25k,Peach Ice,Disposable Vape,Fogline Wholesale,64,10,39,20,24,4,7,10,10,14.97,31.35,1.3,15,20,299.4,Medium,Below reorder point
+MRFOG-35K-GRAPE-ICE,Mr.Fog,Mr.Fog 35k Grape ice,35k,Grape Ice,Disposable Vape,Fogline Wholesale,87,3,93,40,24,3,5,10,10,15.98,27.14,3.1,25,30,479.4,High,Fast mover - review weekly
+MRFOG-25K-STRAW-WATER-ICE,Mr.Fog,Mr.Fog 25k Strawberry watermelon ice,25k,Strawberry Watermelon Ice,Disposable Vape,Fogline Wholesale,90,21,42,20,34,4,10,10,10,14.16,27.41,1.4,20,20,283.2,Medium,Below reorder point
+MRFOG-35K-LYCHEE-ICE,Mr.Fog,Mr.Fog 35k Lychee ice,35k,Lychee Ice,Disposable Vape,Fogline Wholesale,53,64,40,0,17,7,7,5,5,15.76,31.47,1.33,19,0,0.0,Low,OK
+MRFOG-25K-MINT-ICE,Mr.Fog,Mr.Fog 25k Mint ice,25k,Mint Ice,Disposable Vape,Fogline Wholesale,53,22,64,40,28,10,5,5,5,13.9,28.46,2.13,32,10,139.0,Medium,Below reorder point
